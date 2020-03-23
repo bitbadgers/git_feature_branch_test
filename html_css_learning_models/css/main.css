@@ -341,3 +341,7 @@ a:hover {
 a:active {
     color: darkgreen;
 }
+
+.h3:hover {
+    color: beige;
+}
