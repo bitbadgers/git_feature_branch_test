@@ -154,7 +154,7 @@ table {
   padding-right: 30px;
 
 }
-<<<<<<< HEAD:html_css_learning_models/css/main.css
+
 
 .grid,
 .sec1 {
@@ -171,7 +171,6 @@ table {
 .sec-1 {
   width: 33%;
   padding-left: 6px;
-=======
 section .grid{
   display:flex;
   justify-content:space-between;
@@ -183,7 +182,6 @@ section .grid h3{
 }
 section .grid h4{
   padding:10px 0px;;
->>>>>>> 7d50eb868e202f1df7f626bdb4b6bcdb28d6aa6c:html_css_learning_models/css/index.css
 }
 
 
@@ -215,14 +213,11 @@ h4 p {
 
 
 /* ================row============ */
-<<<<<<< HEAD:html_css_learning_models/css/main.css
 .row {
   padding: 66px 0 44px 0;
-=======
 .row{
   display:flex;
   justify-content:space-between;
->>>>>>> 7d50eb868e202f1df7f626bdb4b6bcdb28d6aa6c:html_css_learning_models/css/index.css
   background-color: white;
   margin:auto;
 }
@@ -239,9 +234,8 @@ h4 p {
 
 
 /* =============== p-header============== */
-<<<<<<< HEAD:html_css_learning_models/css/main.css
+
 .primary-header {
-=======
 header{
   background-color:#333;
   color:white;
@@ -250,15 +244,10 @@ header nav a{
   padding:0px 20px;
 }
 .primary-header{
->>>>>>> 7d50eb868e202f1df7f626bdb4b6bcdb28d6aa6c:html_css_learning_models/css/index.css
   padding: 22px 22px;
   color: beige;
   letter-spacing: .5px;
   font-family: monospace;
-<<<<<<< HEAD:html_css_learning_models/css/main.css
-
-=======
->>>>>>> 7d50eb868e202f1df7f626bdb4b6bcdb28d6aa6c:html_css_learning_models/css/index.css
 }
 
 
